@@ -1,0 +1,7 @@
+{
+  "port": 8888,
+  "rewrite": [
+     { "from": "one", "to": "two" }
+  ]
+}
+

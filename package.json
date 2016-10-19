@@ -1,0 +1,15 @@
+{
+  "name": "ws-deep-merge-example",
+  "version": "0.0.1",
+  "description": "Example of using local-web-server with multiple config files",
+  "main": "index.js",
+  "dependencies": {
+    "local-web-server": "1.3.0-0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
